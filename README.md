@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Danilosauro
 - 👀 I’m interested in Development, Biotechnology and  Data science
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on projects in Development, Biotech or Datascience fields
+- 💞️ I’m looking to collaborate on projects in Development, Biotechnology or Datascience fields
 - 📫 How to reach me  http:// www.linkedin.com/in/danilo-dias-4b8999213
 
 <!---
