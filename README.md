@@ -20,10 +20,13 @@
  
 
  ## Activities and hobbies:
+
 <div>
+ 
 - Sports  
 - Real Time strategy games 
 - Traveling   
+
 </div>
  
  
