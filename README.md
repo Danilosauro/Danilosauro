@@ -31,6 +31,7 @@
  
  
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/304/vulcan-salute_dark-skin-tone_1f596-1f3ff_1f3ff.png" height ="40" width = "40">    
+
 **Live long and prosper**    
  
 <div>
