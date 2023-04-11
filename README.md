@@ -1,4 +1,4 @@
-## 🖖🏽 Vulcan salute 
+## 🖖🏽👦🏽 Vulcan salute 
 
 ## Hello World, I'm **Danilo Dias**, a brazilian developer and biologist, working with biotechnology and Data Science.  I'm currently studying Data Science and Analytics at USP-ESALQ, and I'm also a Full-Stack Developer. You can reach me in my [Linkedin](https://www.linkedin.com/in/danilo-dias-biodev "My profile") 
 
