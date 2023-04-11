@@ -1,4 +1,4 @@
-# <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/304/vulcan-salute_dark-skin-tone_1f596-1f3ff_1f3ff.png" height ="40" width = "40"> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/whatsapp/314/boy_dark-skin-tone_1f466-1f3ff_1f3ff.png" height ="70" width ="70"> Vulcan salute 
+## 🖖🏽 Vulcan salute 
 
 ## Hello World, I'm **Danilo Dias**, a brazilian developer and biologist, working with biotechnology and Data Science.  I'm currently studying Data Science and Analytics at USP-ESALQ, and I'm also a Full-Stack Developer. You can reach me in my [Linkedin](https://www.linkedin.com/in/danilo-dias-biodev "My profile") 
 
