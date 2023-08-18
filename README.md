@@ -4,6 +4,11 @@
 
 ## You can reach me in my [Linkedin](https://www.linkedin.com/in/danilo-dias-biodev "My profile") 
 
+<div>
+<a href="https://github.com/danilosauro">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
  ## Favourite languages:
 <div>
@@ -13,9 +18,6 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height ="30" width= "30"/>
 </div>
   
-
-  
-
   ## I can code too: 
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  height ="30" width="30"/> <img          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height= "30" width= "30"/> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height = "30" width= "30"/> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height = "30" width= "30"/> 
