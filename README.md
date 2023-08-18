@@ -1,6 +1,6 @@
 ## 🖖🏽 Vulcan salute 
 
-## Hello World, I'm **Danilo Dias**, a brazilian biologist, working as Data Analyst in the biotechnological field. I'm currently studying Data Science and Analytics at USP-ESALQ, and also learning about Amazon Web Services. I've studied full-stack development at Cubos Academy. 
+## Hello World, I'm **Danilo Dias**, a brazilian biologist, working as Data Analyst in the biotechnological field. I'm currently studying Data Science and Analytics at USP-ESALQ, and also learning about Amazon Web Services. It is importa to say that I studied Systems Development at Cubos Academy.
 
 ## You can reach me in my [Linkedin](https://www.linkedin.com/in/danilo-dias-biodev "My profile") 
 
