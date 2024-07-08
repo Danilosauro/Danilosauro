@@ -1,6 +1,6 @@
 ## 🖖🏽 Vulcan salute 
 
-## Hello World, I'm **Danilo Dias**, a brazilian biologist, working as Data Scientist and Analyst in the biotechnological field. I'm currently studying Data Science and Analytics at USP-ESALQ, and also studying Systems Development.
+## Hello World, I'm **Danilo Dias**, a brazilian biologist, working as Data Scientist/Analyst in the biotechnological field. I have a Data Science and Analytics Diploma by USP-ESALQ, and I'm also studying Systems Development.
 
 ## You can reach me in my [Linkedin](https://www.linkedin.com/in/danilo-dias-biodev "My profile") 
 
