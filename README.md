@@ -4,11 +4,6 @@
 
 ## You can reach me in my [Linkedin](https://www.linkedin.com/in/danilo-dias-biodev "My profile") 
 
-<div>
-<a href="https://github.com/danilosauro">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilosauro&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
  ## Favourite languages:
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height = "30" width="30"/> 
